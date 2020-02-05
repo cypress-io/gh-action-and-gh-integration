@@ -1,0 +1,28 @@
+{
+  "name": "gh-action-and-gh-integration",
+  "version": "1.0.0",
+  "description": "Example project that uses both Cypress GH Action and Cypress GH Integration",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress test",
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cypress-io/gh-action-and-gh-integration.git"
+  },
+  "keywords": [
+    "cypress",
+    "cypress-example"
+  ],
+  "author": "Gleb Bahmutov <gleb.bahmutov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cypress-io/gh-action-and-gh-integration/issues"
+  },
+  "homepage": "https://github.com/cypress-io/gh-action-and-gh-integration#readme",
+  "devDependencies": {
+    "cypress": "3.8.3"
+  }
+}
