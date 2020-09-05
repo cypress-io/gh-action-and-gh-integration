@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/cypress-io/gh-action-and-gh-integration#readme",
   "devDependencies": {
-    "cypress": "5.0.0"
+    "cypress": "5.1.0"
   }
 }
